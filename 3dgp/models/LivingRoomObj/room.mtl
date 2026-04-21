@@ -1,0 +1,74 @@
+# Blender 3.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Cabinet
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.886300 0.886300 0.886300
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl CupPlate
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd LivingRoomObj/CupPlateDiffuceMap.jpg
+map_Bump LivingRoomObj/CupPlateNormalsMap.jpg
+
+newmtl Foor
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd LivingRoomObj/FloorDiffuce.jpg
+
+newmtl Light
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl WallColor
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd LivingRoomObj/WallColorDiffuce.jpg
+
+newmtl Wood
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd LivingRoomObj/WoodDiffuce.jpg
+
+newmtl WoodWall
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd LivingRoomObj/WoodWallDiffuce.jpg
+map_Bump LivingRoomObj/WoodWallNormal.jpg
