@@ -1,6 +1,7 @@
 # OpenGL Scene
 
-A real-time 3D scene built with OpenGL, demonstrating a range of rendering and simulation techniques studied over the academic year. The scene depicts an interior room with dynamic lighting, animated characters, and physically-based cloth simulation.
+A real-time 3D scene built with OpenGL, demonstrating a range of rendering and simulation techniques studied over the academic year. The scene depicts an interior room with dynamic lighting, animated characters, and physically-based cloth simulation.  
+[See this project on my portfolio](https://k1phelan234.wixsite.com/kieran-phelan-portfo/copy-of-multiplayer-shooter), including a video showcase.
 
 ---
 
